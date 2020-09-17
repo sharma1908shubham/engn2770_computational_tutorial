@@ -1,4 +1,4 @@
 # environment for the notebook
 ase==3.20.1
-numpy==1.19.
+numpy==1.19.0
 matplotlib==3.3.1
